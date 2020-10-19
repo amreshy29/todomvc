@@ -4,6 +4,6 @@
     "lint": "jscs"
   },
   "dependencies": {
-    "jscs": "^1.13.1"
+    "jscs": "^2.5.0"
   }
 }
